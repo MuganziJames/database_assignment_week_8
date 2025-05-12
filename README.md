@@ -76,3 +76,5 @@ Pull requests are welcome—just open an issue first to discuss major changes.
 ## 📜 License
 
 This project is released under the MIT License. See `LICENSE` for details.
+
+## Crafted by James Muganzi💻
