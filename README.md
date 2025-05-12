@@ -42,11 +42,8 @@ mysql> SOURCE ./sample/seed_data.sql;
 
 ## 🖼️ Entity‑Relationship Diagram (ERD)
 
-![ERD Diagram](docs/library_mg_erd.png)
+![ERD Diagram](./library_erd.png)
 
-> Looking for the editable source? Check **`docs/erd/library_mg.drawio`**.
-
----
 
 ## 🗂️ Repository Structure
 
